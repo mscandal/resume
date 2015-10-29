@@ -5,6 +5,7 @@
 ### CTO & Co-Founder - Bloompop
 March 2013 - Present
 
+As CTO & Co-Founder, I had many duties: building and maintaining [Bloompop.com](https://www.bloompop.com), participating in the interview process for every candidate, participating in successfully pitching venture capital firms with my co-founder, building and maintaining [Freshcut Market](https://www.freshcutmarket.com), and building [My Fake Valentine](http://www.myfakevalentine.com).
 
 #### Technologies:
 Node.JS, Babel (ES 6/7/2015), Koa, Express, React, Mocha, Angular, Browserify, AWS (DynamoDB, S3, CloudSearch), CouchDB on Cloudant, LevelDB, Gulp, Angular, Jade, Stylus, Sass, Joyent, Heroku, Mandrill APIs, Hipchat APIs, Slack APIs, Quickbooks APIs, git, Trello, GitHub, Facebook APIs, Twitter APIs
