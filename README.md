@@ -11,6 +11,14 @@ As CTO & Co-Founder, I had many duties: building and maintaining [Bloompop.com](
 Node.JS, Babel (ES 6/7/2015), Koa, Express, React, Mocha, Angular, Browserify, AWS (DynamoDB, S3, CloudSearch), CouchDB on Cloudant, LevelDB, Gulp, Angular, Jade, Stylus, Sass, Joyent, Heroku, Mandrill APIs, Hipchat APIs, Slack APIs, Quickbooks APIs, git, Trello, GitHub, Facebook APIs, Twitter APIs
 
 
+## [co-stream-iterator](https://github.com/mscandal/co-stream-iterator)
+An abstraction for making stream processing much flatter and easier to read in co and koa. This is used in [Freshcut Market](https://www.freshcutmarket.com). I have plans to release a version that returns a generator for use in `for...of` statements with no co or koa dependency.
+
+
+## [koa-refresh](https://github.com/Bloompop/koa-refresh)
+Unfinished library for live reloading stateless backend modules used in a koa server. It's used in [Freshcut Market](https://www.freshcutmarket.com) for local development and on the production site for quick deploys. I have plans to make a generalized and unopinionated version.
+
+
 ### [Kyoshi](https://github.com/BigIroh/Kyoshi)
 Kyoshi is an abstraction on Socket.io that allows you to call server side Node as async functions from the browser. Its primary goal was to bring the client and server together while keeping a clean separation. This project was my answer to JooDee, an earlier project described below.
 
