@@ -2,74 +2,49 @@
 [scandalis.matthew@gmail.com](mailto:scandalis.matthew@gmail.com) - [540-878-7481](tel:+15408787481)
 
 ## Projects and Work Experience
+
+### Senior Software Engineer - Addthis (Oracle)
+April 2016 - Present
+
+Lead developer for a flapship project with a distributed team using Typescript, React, and Redux. Architecture a modern frontend for an analytics platform. Developed high visibility web tools that are served on more than 15 million websites and sees more than 1.9 billion unique visitors per month. Refactored legacy codebases to reduce payload size and simplify architecture. Worked with and extended an in-house streaming distributed data processing and storage system.
+
+### Developer - Workhorse Collective
+Janurary 2016 - April 2016
+
+Worked closely with graphic designers to develop and build websites for nonprofits. Extended designs to increase visual communication and simplify development. Modernized inherited codebases from clients. Automated development operations for deployment, provisioning, and database backup recovery.
+
 ### CTO & Co-Founder - Bloompop
-March 2013 - Present
+March 2013 - November 2015
 
-As CTO & Co-Founder, I had many duties: building and maintaining [Bloompop.com](https://www.bloompop.com), participating in the interview process for every candidate, participating in successfully pitching venture capital firms with my co-founder, building and maintaining [Freshcut Market](https://www.freshcutmarket.com), and building [My Fake Valentine](http://www.myfakevalentine.com). Building Bloompop.com, I was the sole developer. We had a designer doing most of the CSS and stylus. While building Freshcut Market, I had a contractor and another developer doing front end work while developed the backend as well as put together the pieces the other developers made. I engineered both projects. As the primary backend developer on both, I implemented automation through different chat applications (Hipchat and Slack), automated bookkeeping and payouts (through Quickbooks and Stripe), and built two full e-commerce backends. Two separate codebases were necessary due to the difference in design and the knowledge I had gained over the past few years. Bloompop.com was my first e-commerce site and the first site and the first full project I had build and designed every piece of. There were problems inherent in its design that I learned a lot from. I used this knowledge to build a much faster, maintainable, and cleaner codebase for Freshcut.
-
-#### Technologies:
- - Node.JS
- - Babel (ES 6/7/2015)
- - Koa
- - Express
- - React
- - Mocha
- - Angular
- - Browserify
- - AWS (DynamoDB
- - S3
- - CloudSearch)
- - CouchDB on Cloudant
- - LevelDB
- - Gulp
- - Angular
- - Jade
- - Stylus
- - Sass
- - Joyent
- - Heroku
- - Mandrill APIs
- - Hipchat APIs
- - Slack APIs
- - Quickbooks APIs
- - git
- - Trello
- - GitHub
- - Facebook APIs
- - Twitter APIs
-
-
-## [co-stream-iterator](https://github.com/mscandal/co-stream-iterator)
-An abstraction for making stream processing much flatter and easier to read in co and koa. This is used in [Freshcut Market](https://www.freshcutmarket.com). I have plans to release a version that returns a generator for use in `for...of` statements with no co or koa dependency.
-
-
-## [koa-refresh](https://github.com/Bloompop/koa-refresh)
-Unfinished library for live reloading stateless backend modules used in a koa server. It's used in [Freshcut Market](https://www.freshcutmarket.com) for local development and on the production site for quick deploys. I have plans to make a generalized and unopinionated version.
-
+Built and maintained two e-commerce platforms in order to simplify the online floral industry for both consumer ordering and florists/flower farmer transactions. Worked closely with designers to concepulize and design both products. Made high level business and strategy descisions for all aspects of the business. Raise funding and pitched business model to investors.
 
 ### Web Developer - Hurd I/T and Communication
 October 2012 - March 2013
 
-Helped maintain, repair, and develop web applications as well as worked with clients to better design their websites and applications. Worked on an internal site for managing all sales, time tracking, server uptime, and more.
-
-#### Technologies:
- - ASP
- - ASP.NET
- - JavaScript
- - jQuery
- - ColdFusion
- - MySQL
-
+Helped maintain, repair, and develop web applications. Worked with clients to better design their websites and applications. Worked on an internal site for managing all sales, time tracking, server uptime, and other metrics.
 
 ### Software Developer - Intelitrac, Inc
 June 2011 - September 2012
 
-Worked on a large web application for asset tracking. Developed an upgrade involving integrating external xml services like Expedia and Hotwire for purchasing and organizing flights, hotels, and rental cars. Assisted in a complete refactoring of the backend of the application. This involved redesigning data schemas and helping to come up with a more logical server design that allowed for maximum code reuse.
+Worked on a large web application for asset tracking. Integrated external services for purchasing and organizing flights, hotels, and rental cars. Assisted in a refactoring the backend of the application which involved redesigning database schemas and maximized code reuse.
 
 #### Technologies:
+ - Typescript
+ - Redux
+ - React
+ - Webpack
+ - Babel (ES 6/7/2015 and hand-rolled plugins)
  - Java
- - Java Server Faces (JSF)
- - Primefaces
- - Microsoft SQL
- - GlassFish
- - Hibernate
+ - Node.JS
+ - Express
+ - Jest
+ - AWS (DynamoDB, S3, CloudSearch)
+ - Cassandra
+ - MySQL
+ - CouchDB
+ - LevelDB
+ - Gulp
+ - Jade
+ - Stylus
+ - Sass
+ - git
