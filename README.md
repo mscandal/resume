@@ -1,7 +1,7 @@
 # Matt Scandalis
 [scandalis.matthew@gmail.com](mailto:scandalis.matthew@gmail.com) - [540-878-7481](tel:+15408787481)
 
-## Projects and Work Experience
+## Work Experience
 
 ### Senior Software Engineer - Addthis (Oracle)
 April 2016 - Present
