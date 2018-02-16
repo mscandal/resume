@@ -1,22 +1,50 @@
-#Matt Scandalis
-scandalis.matthew@gmail.com - 540-878-7481
+# Matt Scandalis
+[scandalis.matthew@gmail.com](mailto:scandalis.matthew@gmail.com) - [540-878-7481](tel:+15408787481)
 
-##Skills
-###Primary
-NodeJS, JavaScript, jQuery, HTML, CSS, Java, Lua
-###Secondary
-SQL, Processing, C++, C
-##Projects
-###[Kyoshi](https://github.com/BigIroh/Kyoshi)
-Kyoshi is an abstraction on Socket.io that allows you to call server side Node as async functions from the browser. Its primary goal was to bring the client and server together while keeping a clean separation. This project was my answer to JooDee, an earlier project described below. 
-###[JooDee](https://github.com/BigIroh/JooDee)
-JooDee was supposed to be an answer to ASP and ColdFusion. A coworker and I were unhappy working with them and thought using JavaScript and Node would make it better. This was a good project to teach me the ins and outs of Node and JS but was flawed in design as it attempted to build linear pages with asynchronus code.
-##Work Experience
-###Web Developer - Hurd I/T and Communication (2012 - Present)
-At Hurd, I wrote projects in ASP, ColdFusion, and JavaScript. I helped maintain, repair, and develop web applications as well as worked with clients to better design their websites and applications. I was involved in working on an internal site for Hurd that managed all of our sales, timetracking, server uptime, and more. For this I used ASP and jQuery. This was my main introduction to JavaScript as well as my inspiration to create JooDee.
-###Software Developer - Intelitrac, Inc (2011 - 2012)
-While working for Intelitrac, I worked on a large web application for asset tracking. Our stack consisted of Java, Java Server Faces, GlassFish, Hibernate, and Microsoft SQL Server. My particular job involved integrating external xml services like Expedia and Hotwire into a module, for the previously mentioned web application, that handled corporate travel. While there, I also helped in a complete refactoring of the backend of the application. This involved redesigning the database and helping to come up with a more logical server design that allowed for maximum code reuse.
-##Workflow
-For editing, I use SublimeText2. It has a clean interface, powerful multiline editing capabilities, and a package manager for its large amount of user plugins. If I am working on a NodeJs application, I use the package nodemon, a small application that monitors your files for change and restarts your Node application. Lastly, if I'm working on a web project, I use Google Chrome with Tincr, a plugin that allows you to save changes made in the developer tools as well as live updating the browser when a file changes.
-##Education
-I go to George Mason University and major in computer science. My expected graduation date is May 2014.
+## Work Experience
+
+### Senior Software Engineer - Addthis (Oracle)
+April 2016 - Present
+
+Lead developer for a flapship project with a distributed team using Typescript, React, and Redux. Architecture a modern frontend for an analytics platform. Developed high visibility web tools that are served on more than 15 million websites and sees more than 1.9 billion unique visitors per month. Refactored legacy codebases to reduce payload size and simplify architecture. Worked with and extended an in-house streaming distributed data processing and storage system.
+
+### Developer - Workhorse Collective
+Janurary 2016 - April 2016
+
+Worked closely with graphic designers to develop and build websites for nonprofits. Extended designs to increase visual communication and simplify development. Modernized inherited codebases from clients. Automated development operations for deployment, provisioning, and database backup recovery.
+
+### CTO & Co-Founder - Bloompop
+March 2013 - November 2015
+
+Built and maintained two e-commerce platforms in order to simplify the online floral industry for both consumer ordering and florists/flower farmer transactions. Worked closely with designers to concepulize and design both products. Made high level business and strategy descisions for all aspects of the business. Raise funding and pitched business model to investors.
+
+### Web Developer - Hurd I/T and Communication
+October 2012 - March 2013
+
+Helped maintain, repair, and develop web applications. Worked with clients to better design their websites and applications. Worked on an internal site for managing all sales, time tracking, server uptime, and other metrics.
+
+### Software Developer - Intelitrac, Inc
+June 2011 - September 2012
+
+Worked on a large web application for asset tracking. Integrated external services for purchasing and organizing flights, hotels, and rental cars. Assisted in a refactoring the backend of the application which involved redesigning database schemas and maximized code reuse.
+
+#### Technologies:
+ - Typescript
+ - Redux
+ - React
+ - Webpack
+ - Babel (ES 6/7/2015 and hand-rolled plugins)
+ - Java
+ - Node.JS
+ - Express
+ - Jest
+ - AWS (DynamoDB, S3, CloudSearch)
+ - Cassandra
+ - MySQL
+ - CouchDB
+ - LevelDB
+ - Gulp
+ - Jade
+ - Stylus
+ - Sass
+ - git

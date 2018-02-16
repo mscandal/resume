@@ -7,6 +7,9 @@
     <link href='https://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
     <style>
 		@media screen {
+			body {
+                margin-top: 20px;
+			}
 			h1 {
 					font-size: 24px;
 			}
@@ -40,17 +43,9 @@
 				margin-right: 12.5%;
 			}
 		}
-		@media screen and (min-width: 1000px) {
-			body {
-                margin-top: 20px;
-				margin-left: 25%;
-				margin-right: 25%;
-			}
-		}
 		@media print {
 			body {
-				width: 100%;
-                margin: 5px;
+                margin: 5em;
 			}
 			h1 {
 				margin-top: 5pt;
@@ -81,13 +76,11 @@
             }
 		}
         * {
-            font-family: Lato;
-            color: rgb(100,100,100);
+            font-family: "Lato", sans-serif;
             margin-top: 0;
             margin-bottom: 0;
         }
         a {
-            color: rgb(125, 125, 255);
             font-size: inherit;
         }
         ul, h4 {
@@ -115,81 +108,47 @@
     </style>
 </head>
 <body>
-	<h1 id="matt-scandalis">Matt Scandalis</h1>
-	<p><a href="mailto:scandalis.matthew@gmail.com">scandalis.matthew@gmail.com</a> - <a href="tel:+15408787481">540-878-7481</a> <span class="noprint"> - <a href="MattScandalis.pdf" download>Download</a></span></p>
-	<h2 id="projects-and-work-experience">Projects and Work Experience</h2>
-	<h3 id="cto-co-founder-bloompop">CTO &amp; Co-Founder - Bloompop</h3>
-	<p>March 2013 - Present</p>
-	<p>As CTO &amp; Co-Founder, I had many duties: building and maintaining <a href="https://www.bloompop.com">Bloompop.com</a> (currently this is replaced by an alternative we're testing), <a href="https://www.freshcutmarket.com">Freshcut Market</a>, <a href="http://www.myfakevalentine.com">My Fake Valentine</a>, leading a development team, participating in successfully pitching venture capital firms, and interviewing potential employees. I worked only with a designer to build both Bloompop.com and My Fake Valentine. As team leader for Freshcut Market, I developed the backend and integrated the front end work of two other developers. As the
-	backend developer on both, I implemented automation through different chat applications (Hipchat and Slack), automated bookkeeping and payouts (through Quickbooks and Stripe), and built two full e-commerce backends. I used my experience from designing and building Bloompop.com to build a much faster, maintainable, and cleaner codebase for Freshcut.</p>
-	<h4 id="technologies-">Technologies:</h4>
-	<ul>
-		<li>Node.JS</li>
-		<li>Babel (ES 6/7/2015)</li>
-		<li>Koa</li>
-		<li>Express</li>
-		<li>React</li>
-		<li>Mocha</li>
-		<li>Angular</li>
-		<li>Browserify</li>
-		<li>AWS (DynamoDB</li>
-		<li>S3</li>
-		<li>CloudSearch)</li>
-		<li>CouchDB on Cloudant</li>
-		<li>LevelDB</li>
-		<li>Gulp</li>
-		<li>Angular</li>
-		<li>Jade</li>
-		<li>Stylus</li>
-		<li>Sass</li>
-		<li>Joyent</li>
-		<li>Heroku</li>
-		<li>Mandrill APIs</li>
-		<li>Hipchat APIs</li>
-		<li>Slack APIs</li>
-		<li>Quickbooks APIs</li>
-		<li>git</li>
-		<li>Trello</li>
-		<li>GitHub</li>
-		<li>Facebook APIs</li>
-		<li>Twitter APIs</li>
-	</ul>
-	<h3 id="-co-stream-iterator-https-github-com-mscandal-co-stream-iterator-"><a href="https://github.com/mscandal/co-stream-iterator">co-stream-iterator</a></h3>
-	<p>An abstraction for making stream processing much flatter and easier to read in co and koa. This is used in <a href="https://www.freshcutmarket.com">Freshcut Market</a>. I have plans to release a version that returns a generator for use in
-	<code>for...of</code> statements with no co or koa dependency.</p>
-	<h3 id="-koa-refresh-https-github-com-bloompop-koa-refresh-"><a href="https://github.com/Bloompop/koa-refresh">koa-refresh</a></h3>
-	<p>Unfinished library for live reloading stateless backend modules used in a koa server. It is used in <a href="https://www.freshcutmarket.com">Freshcut Market</a> for local development and on the production site for quick deploys. I have plans to make
-	a generalized and unopinionated version.</p>
-	<h3 id="web-developer-hurd-i-t-and-communication">Web Developer - Hurd I/T and Communication</h3>
-	<p>October 2012 - March 2013</p>
-	<p>Helped maintain, repair, and develop web applications as well as worked with clients to better design their websites and applications. Worked on an internal site for managing all sales, time tracking, server uptime, and more.</p>
-	<h4 id="technologies-">Technologies:</h4>
-	<ul>
-		<li>ASP</li>
-		<li>ASP.NET</li>
-		<li>JavaScript</li>
-		<li>jQuery</li>
-		<li>ColdFusion</li>
-		<li>MySQL</li>
-	</ul>
-	<h3 id="software-developer-intelitrac-inc">Software Developer - Intelitrac, Inc</h3>
-	<p>June 2011 - September 2012</p>
-	<p>Worked on a large web application for asset tracking. Developed an upgrade involving integrating external xml services including Expedia and Hotwire for purchasing and organizing flights, hotels, and rental cars. Assisted in a complete refactoring of the application. This involved redesigning data schemas and helping to come up with a more logical server design that allowed for maximum code reuse.</p>
-	<h4 id="technologies-">Technologies:</h4>
-	<ul>
-		<li>Java</li>
-		<li>Java Server Faces (JSF)</li>
-		<li>Primefaces</li>
-		<li>Microsoft SQL</li>
-		<li>GlassFish</li>
-		<li>Hibernate</li>
-	</ul>
-  <h3 id="education">Education - George Mason  University - Computer Science</h3>
-	<p>2010 - 2013</p>
-	<p>Completed 2.5 years towards a Computer Science major before leaving school to co-found Bloompop</p>
-	<h4 id="clubs">Clubs:</h4>
-  <p>ACM (Association of Computing Machinery) - Treasurer 2011 - 2012, Vice President Fall 2012</p>
-  <p>Competed in ICPC (Intercollegiate Programming Competion) Mid Atlantic Regionals placing 30th in 2012, 23rd in 2011, and 40th in 2010.</p>
+	<h1>Matt Scandalis</h1>
+<p><a href="mailto:scandalis.matthew@gmail.com">scandalis.matthew@gmail.com</a> - 540-878-7481</p>
+<h2>Work Experience</h2>
+<h3>Senior Software Engineer - Addthis (Oracle)</h3>
+<p>April 2016 - Present</p>
+<p>Lead developer for a flapship project with a distributed team using Typescript, React, and Redux. Architecture a modern frontend for an analytics platform. Developed high visibility web tools that are served on more than 15 million websites and sees more than 1.9 billion unique visitors per month. Refactored legacy codebases to reduce payload size and simplify architecture. Worked with and extended an in-house streaming distributed data processing and storage system.</p>
+<h3>Developer - Workhorse Collective</h3>
+<p>Janurary 2016 - April 2016</p>
+<p>Worked closely with graphic designers to develop and build websites for nonprofits. Extended designs to increase visual communication and simplify development. Modernized inherited codebases from clients. Automated development operations for deployment, provisioning, and database backup recovery.</p>
+<h3>CTO &amp; Co-Founder - Bloompop</h3>
+<p>March 2013 - November 2015</p>
+<p>Built and maintained two e-commerce platforms in order to simplify the online floral industry for both consumer ordering and florists/flower farmer transactions. Worked closely with designers to concepulize and design both products. Made high level business and strategy descisions for all aspects of the business. Raise funding and pitched business model to investors.</p>
+<h3>Web Developer - Hurd I/T and Communication</h3>
+<p>October 2012 - March 2013</p>
+<p>Helped maintain, repair, and develop web applications. Worked with clients to better design their websites and applications. Worked on an internal site for managing all sales, time tracking, server uptime, and other metrics.</p>
+<h3>Software Developer - Intelitrac, Inc</h3>
+<p>June 2011 - September 2012</p>
+<p>Worked on a large web application for asset tracking. Integrated external services for purchasing and organizing flights, hotels, and rental cars. Assisted in a refactoring the backend of the application which involved redesigning database schemas and maximized code reuse.</p>
+<h3>Technologies:</h3>
+<ul>
+<li>Typescript</li>
+<li>Redux</li>
+<li>React</li>
+<li>Webpack</li>
+<li>Babel (ES 6/7/2015 and hand-rolled plugins)</li>
+<li>Java</li>
+<li>Node.JS</li>
+<li>Express</li>
+<li>Jest</li>
+<li>AWS (DynamoDB, S3, CloudSearch)</li>
+<li>Cassandra</li>
+<li>MySQL</li>
+<li>CouchDB</li>
+<li>LevelDB</li>
+<li>Gulp</li>
+<li>Jade</li>
+<li>Stylus</li>
+<li>Sass</li>
+<li>git</li>
+</ul>
+
 
 </body>
 
