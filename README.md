@@ -3,8 +3,13 @@
 
 ## Work Experience
 
+### Senior Software Engineer - Stardog Union
+March 2018 - Present
+
+Developed an Electron application for querying and administering Stardog's graph database. Developed a parser and language server for SparQL to give better highlighting, autocompletion, and syntax error messaging. Refactored and architected an existing Redux and Typescript codebase.
+
 ### Senior Software Engineer - Addthis (Oracle)
-April 2016 - Present
+April 2016 - March 2018
 
 Lead developer for a flapship project with a distributed team using Typescript, React, and Redux. Architecture a modern frontend for an analytics platform. Developed high visibility web tools that are served on more than 15 million websites and sees more than 1.9 billion unique visitors per month. Refactored legacy codebases to reduce payload size and simplify architecture. Worked with and extended an in-house streaming distributed data processing and storage system.
 
@@ -32,6 +37,7 @@ Worked on a large web application for asset tracking. Integrated external servic
  - Typescript
  - Redux
  - React
+ - Electron
  - Webpack
  - Babel (ES 6/7/2015 and hand-rolled plugins)
  - Java
