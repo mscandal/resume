@@ -2,7 +2,7 @@
 [scandalis.matthew@gmail.com](mailto:scandalis.matthew@gmail.com) - [540-878-7481](tel:+15408787481)
 
 ## Work Experience
-### Senior UI EngineerA - Apple, Inc
+### Senior UI Engineer - Apple, Inc
 October 2018 - Present
 
 Technical lead for an internal manufacturing analytics platform. Prototyped and developed new features, laid groundwork for new projects, drove initiatives to improve code quality and stability across all projects, led development of a new internal design system in collaboration with UX team, . Worked with high demand internal customers to rapidly develop and deploy new visualizations for specialized manufacturing data. Worked with UX and product to define requirements and scope for new user facing projects from a combination of user research sessions and research into existing supplemental applications.
