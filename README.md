@@ -2,11 +2,15 @@
 [scandalis.matthew@gmail.com](mailto:scandalis.matthew@gmail.com) - [540-878-7481](tel:+15408787481)
 
 ## Work Experience
+### Senior UI EngineerA - Apple, Inc
+October 2018 - Present
+
+Lead a distributed frontend engineering team for Apple's internal manufacturing analytics platform. Prototyped new features, laid groundwork for new projects, drove initiatives to improve code quality and stability across all projects, led development of a new internal design system in collaboration with UX team. Worked with high demand internal customers to rapidly develop and deploy new visualizations for specialized manufacturing data. Worked with UX and product to define requirements and scope for new user facing projects from a combination of user research sessions and research into existing supplemental applications.
 
 ### Senior Software Engineer - Stardog Union
-March 2018 - Present
+March 2018 - September 2018
 
-Developed an Electron application for querying and administering Stardog's graph database. Developed a parser and language server for SparQL to give better highlighting, autocompletion, and syntax error messaging. Refactored and architected an existing Redux and Typescript codebase.
+Developed a parser and language server for SparQL to give better highlighting, autocompletion, and syntax error messaging. Developed an Electron application for querying and administering Stardog's graph database. Refactored and architected an existing Redux and Typescript codebase. 
 
 ### Senior Software Engineer - Addthis (Oracle)
 April 2016 - March 2018
