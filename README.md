@@ -2,8 +2,19 @@
 [scandalis.matthew@gmail.com](mailto:scandalis.matthew@gmail.com) - [540-878-7481](tel:+15408787481)
 
 ## Work Experience
+### Senior Software Engineer - Shef, Inc
+July 2020 - Present
+
+Joined when the existing engineering team was two people. Have worked on every part of the application from frontend and backend architecture, design, frontend performance, AB test design, typescript build-time optimizations, search experience, schedulers, and more. Worked closely with product and design on standardizing our design language. Worked with operations on new market launches, implementing new modes of delivery, and streamlining onboarding processes.
+
+### Senior Software Engineer - DataStax
+January 2020 - July 2020
+
+Worked on an R&D team under the CTO building a user interface for an unreleased logical data-modeling tool. Users would build a logical data model and the tool would translate this into an optimized physical model for Cassandra and provide an abstracted graphql api that mapped to the logical data model. Worked on the initial prototype versions and tooling for [DataStax Stargate](https://stargate.io).
+
 ### Senior UI Engineer - Apple, Inc
-October 2018 - Present
+October 2018 - January 2020
+
 
 Technical lead for an internal manufacturing analytics platform. Prototyped and developed new features, laid groundwork for new projects, drove initiatives to improve code quality and stability across all projects, led development of a new internal design system in collaboration with UX team, . Worked with high demand internal customers to rapidly develop and deploy new visualizations for specialized manufacturing data. Worked with UX and product to define requirements and scope for new user facing projects from a combination of user research sessions and research into existing supplemental applications.
 
