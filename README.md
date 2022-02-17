@@ -60,6 +60,7 @@ Worked on a large web application for asset tracking. Integrated external servic
  - Express
  - Jest
  - AWS (DynamoDB, S3, CloudSearch)
+ - Postgres
  - Cassandra
  - MySQL
  - CouchDB
